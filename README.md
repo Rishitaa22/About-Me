@@ -1,5 +1,5 @@
 # Know me more!
-### 👋 Hi, I'm Rishta!  
+### 👋 Hi, I'm Rishita!  
 #### 🔭 I’m currently working on building my skills and learning more about coding.  
 #### 🌱 I’m learning Computer Science Engineering at SJCET,Palai.   
 #### 💬 Ask me about life and goals, I can go all day about it.  
